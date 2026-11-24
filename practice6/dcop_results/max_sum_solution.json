@@ -1,0 +1,14 @@
+{
+  "assignment": {
+    "v1": "red",
+    "v2": "blue",
+    "v3": "red"
+  },
+  "cost": -0.1,
+  "details": {
+    "iterations": 40,
+    "damping": 0.3,
+    "seed": 7,
+    "note": "Synchronous min-sum updates; beliefs decoded independently, no convergence guarantee"
+  }
+}

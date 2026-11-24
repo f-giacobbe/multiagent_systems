@@ -1,0 +1,2162 @@
+[
+  {
+    "step": 1,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 1,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 1,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 1,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 1,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 1,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 1,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 1,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 2,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 2,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 2,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 2,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 2,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 2,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 2,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 2,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 3,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 3,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 3,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 3,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 3,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 3,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 3,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 3,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 4,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 4,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 4,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 4,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 4,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 4,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 4,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 4,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 5,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 5,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 5,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 5,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 5,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 5,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 5,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 5,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 6,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 6,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 6,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 6,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 6,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 6,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 6,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 6,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 7,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 7,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 7,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 7,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 7,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 7,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 7,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 7,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 8,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 8,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 8,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 8,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 8,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 8,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 8,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 8,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 9,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 9,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 9,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 9,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 9,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 9,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 9,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 9,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 10,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 10,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 10,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 10,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 10,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 10,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 10,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 10,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 11,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 11,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 11,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 11,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 11,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 11,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 11,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 11,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 12,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 12,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 12,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 12,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 12,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 12,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 12,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 12,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 13,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 13,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 13,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 13,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 13,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 13,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 13,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 13,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 14,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 14,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 14,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 14,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 14,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 14,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 14,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 14,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 15,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 15,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 15,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 15,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 15,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 15,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 15,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 15,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 16,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 16,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 16,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 16,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 16,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 16,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 16,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 16,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 17,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 17,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 17,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 17,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 17,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 17,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 17,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 17,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 18,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 18,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 18,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 18,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 18,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 18,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 18,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 18,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 19,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 19,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 19,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 19,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 19,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 19,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 19,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 19,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 20,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 20,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 20,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 20,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 20,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 20,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 20,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 20,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 21,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 21,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 21,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 21,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 21,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 21,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 21,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 21,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 22,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 22,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 22,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 22,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 22,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 22,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 22,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 22,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 23,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 23,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 23,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 23,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 23,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 23,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 23,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 23,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 24,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 24,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 24,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 24,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 24,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 24,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 24,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 24,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 25,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 25,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 25,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 25,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 25,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 25,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 25,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 25,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 26,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 26,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 26,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 26,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 26,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 26,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 26,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 26,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 27,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 27,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 27,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 27,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 27,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 27,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 27,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 27,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 28,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 28,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 28,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 28,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 28,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 28,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 28,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 28,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 29,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 29,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 29,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 29,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 29,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 29,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 29,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 29,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 30,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 30,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 30,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "VALUE",
+    "payload": {
+      "value": "red"
+    }
+  },
+  {
+    "step": 30,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "value": "blue"
+    }
+  },
+  {
+    "step": 30,
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 30,
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 30,
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  },
+  {
+    "step": 30,
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "GAIN",
+    "payload": {
+      "gain": 0.0
+    }
+  }
+]

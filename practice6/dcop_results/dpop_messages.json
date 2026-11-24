@@ -1,0 +1,76 @@
+[
+  {
+    "step": "UTIL",
+    "sender": "v3",
+    "receiver": "v2",
+    "type": "UTIL",
+    "payload": {
+      "separator": [
+        "v2"
+      ],
+      "table": [
+        {
+          "context": [
+            "red"
+          ],
+          "cost": -0.1
+        },
+        {
+          "context": [
+            "blue"
+          ],
+          "cost": 0.1
+        }
+      ]
+    }
+  },
+  {
+    "step": "UTIL",
+    "sender": "v2",
+    "receiver": "v1",
+    "type": "UTIL",
+    "payload": {
+      "separator": [
+        "v1"
+      ],
+      "table": [
+        {
+          "context": [
+            "red"
+          ],
+          "cost": 0.0
+        },
+        {
+          "context": [
+            "blue"
+          ],
+          "cost": 0.0
+        }
+      ]
+    }
+  },
+  {
+    "step": "VALUE",
+    "sender": "v1",
+    "receiver": "v2",
+    "type": "VALUE",
+    "payload": {
+      "context": {
+        "v1": "red"
+      },
+      "parent_value": "red"
+    }
+  },
+  {
+    "step": "VALUE",
+    "sender": "v2",
+    "receiver": "v3",
+    "type": "VALUE",
+    "payload": {
+      "context": {
+        "v2": "blue"
+      },
+      "parent_value": "blue"
+    }
+  }
+]

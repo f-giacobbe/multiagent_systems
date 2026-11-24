@@ -1,0 +1,13 @@
+{
+  "assignment": {
+    "v1": "blue",
+    "v2": "red",
+    "v3": "blue"
+  },
+  "cost": 0.1,
+  "details": {
+    "rounds": 30,
+    "activation_probability": 0.7,
+    "seed": 7
+  }
+}

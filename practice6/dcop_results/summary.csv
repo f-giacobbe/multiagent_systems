@@ -1,0 +1,4 @@
+rounds,cost,messages,assignment
+0,-0.1,0,"{""v1"": ""blue"", ""v2"": ""red"", ""v3"": ""blue""}"
+10,-0.1,40,"{""v1"": ""blue"", ""v2"": ""red"", ""v3"": ""blue""}"
+20,-0.1,80,"{""v1"": ""blue"", ""v2"": ""red"", ""v3"": ""blue""}"

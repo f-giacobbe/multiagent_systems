@@ -1,0 +1,8962 @@
+[
+  {
+    "step": 1,
+    "sender": "v1",
+    "receiver": "unary:v1",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 1,
+    "sender": "v1",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 1,
+    "sender": "v2",
+    "receiver": "unary:v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 1,
+    "sender": "v2",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 1,
+    "sender": "v2",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 1,
+    "sender": "v3",
+    "receiver": "unary:v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 1,
+    "sender": "v3",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 1,
+    "sender": "unary:v1",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.13999999999999999
+      ]
+    }
+  },
+  {
+    "step": 1,
+    "sender": "unary:v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.13999999999999999,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 1,
+    "sender": "unary:v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.13999999999999999,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 1,
+    "sender": "pair:v1|v2",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 1,
+    "sender": "pair:v1|v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 1,
+    "sender": "pair:v2|v3",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 1,
+    "sender": "pair:v2|v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 2,
+    "sender": "v1",
+    "receiver": "unary:v1",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 2,
+    "sender": "v1",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.09799999999999999
+      ]
+    }
+  },
+  {
+    "step": 2,
+    "sender": "v2",
+    "receiver": "unary:v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 2,
+    "sender": "v2",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.09799999999999999,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 2,
+    "sender": "v2",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.09799999999999999,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 2,
+    "sender": "v3",
+    "receiver": "unary:v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 2,
+    "sender": "v3",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.09799999999999999,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 2,
+    "sender": "unary:v1",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.182
+      ]
+    }
+  },
+  {
+    "step": 2,
+    "sender": "unary:v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.182,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 2,
+    "sender": "unary:v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.182,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 2,
+    "sender": "pair:v1|v2",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0686
+      ]
+    }
+  },
+  {
+    "step": 2,
+    "sender": "pair:v1|v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0686,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 2,
+    "sender": "pair:v2|v3",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0686
+      ]
+    }
+  },
+  {
+    "step": 2,
+    "sender": "pair:v2|v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0686
+      ]
+    }
+  },
+  {
+    "step": 3,
+    "sender": "v1",
+    "receiver": "unary:v1",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.04801999999999999
+      ]
+    }
+  },
+  {
+    "step": 3,
+    "sender": "v1",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.1568
+      ]
+    }
+  },
+  {
+    "step": 3,
+    "sender": "v2",
+    "receiver": "unary:v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 3,
+    "sender": "v2",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.10877999999999999,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 3,
+    "sender": "v2",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.20482,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 3,
+    "sender": "v3",
+    "receiver": "unary:v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.04801999999999999
+      ]
+    }
+  },
+  {
+    "step": 3,
+    "sender": "v3",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.1568,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 3,
+    "sender": "unary:v1",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.1946
+      ]
+    }
+  },
+  {
+    "step": 3,
+    "sender": "unary:v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.1946,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 3,
+    "sender": "unary:v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.1946,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 3,
+    "sender": "pair:v1|v2",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.09672599999999999
+      ]
+    }
+  },
+  {
+    "step": 3,
+    "sender": "pair:v1|v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.13033999999999998,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 3,
+    "sender": "pair:v2|v3",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.13033999999999998
+      ]
+    }
+  },
+  {
+    "step": 3,
+    "sender": "pair:v2|v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.163954
+      ]
+    }
+  },
+  {
+    "step": 4,
+    "sender": "v1",
+    "receiver": "unary:v1",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0821142
+      ]
+    }
+  },
+  {
+    "step": 4,
+    "sender": "v1",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.18325999999999998
+      ]
+    }
+  },
+  {
+    "step": 4,
+    "sender": "v2",
+    "receiver": "unary:v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 4,
+    "sender": "v2",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.077616,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 4,
+    "sender": "v2",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.288904,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 4,
+    "sender": "v3",
+    "receiver": "unary:v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.12917379999999998
+      ]
+    }
+  },
+  {
+    "step": 4,
+    "sender": "v3",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.18325999999999998,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 4,
+    "sender": "unary:v1",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19837999999999997
+      ]
+    }
+  },
+  {
+    "step": 4,
+    "sender": "unary:v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19837999999999997,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 4,
+    "sender": "unary:v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19837999999999997,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 4,
+    "sender": "pair:v1|v2",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.083349
+      ]
+    }
+  },
+  {
+    "step": 4,
+    "sender": "pair:v1|v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.16738399999999998,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 4,
+    "sender": "pair:v2|v3",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.16738399999999998
+      ]
+    }
+  },
+  {
+    "step": 4,
+    "sender": "pair:v2|v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.251419
+      ]
+    }
+  },
+  {
+    "step": 5,
+    "sender": "v1",
+    "receiver": "unary:v1",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.08297856
+      ]
+    }
+  },
+  {
+    "step": 5,
+    "sender": "v1",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19384399999999996
+      ]
+    }
+  },
+  {
+    "step": 5,
+    "sender": "v2",
+    "receiver": "unary:v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 5,
+    "sender": "v2",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.044981999999999994,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 5,
+    "sender": "v2",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.34270599999999996,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 5,
+    "sender": "v3",
+    "receiver": "unary:v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.21474543999999998
+      ]
+    }
+  },
+  {
+    "step": 5,
+    "sender": "v3",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19384399999999996,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 5,
+    "sender": "unary:v1",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19951399999999997
+      ]
+    }
+  },
+  {
+    "step": 5,
+    "sender": "unary:v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19951399999999997,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 5,
+    "sender": "unary:v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19951399999999997,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 5,
+    "sender": "pair:v1|v2",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.05649209999999999
+      ]
+    }
+  },
+  {
+    "step": 5,
+    "sender": "pair:v1|v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.18590599999999996,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 5,
+    "sender": "pair:v2|v3",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.18590599999999996
+      ]
+    }
+  },
+  {
+    "step": 5,
+    "sender": "pair:v2|v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.31531989999999993
+      ]
+    }
+  },
+  {
+    "step": 6,
+    "sender": "v1",
+    "receiver": "unary:v1",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.06443803799999999
+      ]
+    }
+  },
+  {
+    "step": 6,
+    "sender": "v1",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19781299999999996
+      ]
+    }
+  },
+  {
+    "step": 6,
+    "sender": "v2",
+    "receiver": "unary:v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 6,
+    "sender": "v2",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.023020200000000005,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 6,
+    "sender": "v2",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.3726057999999999,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 6,
+    "sender": "v3",
+    "receiver": "unary:v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.2851475619999999
+      ]
+    }
+  },
+  {
+    "step": 6,
+    "sender": "v3",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19781299999999996,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 6,
+    "sender": "unary:v1",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19985419999999998
+      ]
+    }
+  },
+  {
+    "step": 6,
+    "sender": "unary:v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19985419999999998,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 6,
+    "sender": "unary:v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19985419999999998,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 6,
+    "sender": "pair:v1|v2",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.03306177
+      ]
+    }
+  },
+  {
+    "step": 6,
+    "sender": "pair:v1|v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19424089999999994,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 6,
+    "sender": "pair:v2|v3",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19424089999999994
+      ]
+    }
+  },
+  {
+    "step": 6,
+    "sender": "pair:v2|v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.3554200299999999
+      ]
+    }
+  },
+  {
+    "step": 7,
+    "sender": "v1",
+    "receiver": "unary:v1",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.042474650399999994
+      ]
+    }
+  },
+  {
+    "step": 7,
+    "sender": "v1",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19924183999999995
+      ]
+    }
+  },
+  {
+    "step": 7,
+    "sender": "v2",
+    "receiver": "unary:v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 7,
+    "sender": "v2",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.010835370000000032,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 7,
+    "sender": "v2",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.3876483099999999,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 7,
+    "sender": "v3",
+    "receiver": "unary:v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.3343382895999999
+      ]
+    }
+  },
+  {
+    "step": 7,
+    "sender": "v3",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19924183999999995,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 7,
+    "sender": "unary:v1",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19995625999999997
+      ]
+    }
+  },
+  {
+    "step": 7,
+    "sender": "unary:v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19995625999999997,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 7,
+    "sender": "unary:v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19995625999999997,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 7,
+    "sender": "pair:v1|v2",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.017503290000000022
+      ]
+    }
+  },
+  {
+    "step": 7,
+    "sender": "pair:v1|v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19774155799999993,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 7,
+    "sender": "pair:v2|v3",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19774155799999993
+      ]
+    }
+  },
+  {
+    "step": 7,
+    "sender": "pair:v2|v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.37797982599999985
+      ]
+    }
+  },
+  {
+    "step": 8,
+    "sender": "v1",
+    "receiver": "unary:v1",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.024994698120000013
+      ]
+    }
+  },
+  {
+    "step": 8,
+    "sender": "v1",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19974193399999995
+      ]
+    }
+  },
+  {
+    "step": 8,
+    "sender": "v2",
+    "receiver": "unary:v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 8,
+    "sender": "v2",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0048009024000000376,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 8,
+    "sender": "v2",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.3946829655999999,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 8,
+    "sender": "v3",
+    "receiver": "unary:v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.36488736507999986
+      ]
+    }
+  },
+  {
+    "step": 8,
+    "sender": "v3",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19974193399999995,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 8,
+    "sender": "unary:v1",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19998687799999998
+      ]
+    }
+  },
+  {
+    "step": 8,
+    "sender": "unary:v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19998687799999998,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 8,
+    "sender": "unary:v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19998687799999998,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 8,
+    "sender": "pair:v1|v2",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.008611618680000033
+      ]
+    }
+  },
+  {
+    "step": 8,
+    "sender": "pair:v1|v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19914182119999993,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 8,
+    "sender": "pair:v2|v3",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19914182119999993
+      ]
+    }
+  },
+  {
+    "step": 8,
+    "sender": "pair:v2|v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.38967202371999987
+      ]
+    }
+  },
+  {
+    "step": 9,
+    "sender": "v1",
+    "receiver": "unary:v1",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.013526542512000026
+      ]
+    }
+  },
+  {
+    "step": 9,
+    "sender": "v1",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19991339479999998
+      ]
+    }
+  },
+  {
+    "step": 9,
+    "sender": "v2",
+    "receiver": "unary:v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 9,
+    "sender": "v2",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0020318104800000456,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 9,
+    "sender": "v2",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.3977949791199999,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 9,
+    "sender": "v3",
+    "receiver": "unary:v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.3822366261279998
+      ]
+    }
+  },
+  {
+    "step": 9,
+    "sender": "v3",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19991339479999998,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 9,
+    "sender": "unary:v1",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999606339999998
+      ]
+    }
+  },
+  {
+    "step": 9,
+    "sender": "unary:v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999606339999998,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 9,
+    "sender": "unary:v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999606339999998,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 9,
+    "sender": "pair:v1|v2",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.004005752940000042
+      ]
+    }
+  },
+  {
+    "step": 9,
+    "sender": "pair:v1|v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19968192271999996,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 9,
+    "sender": "pair:v2|v3",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19968192271999996
+      ]
+    }
+  },
+  {
+    "step": 9,
+    "sender": "pair:v2|v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.39535809249999987
+      ]
+    }
+  },
+  {
+    "step": 10,
+    "sender": "v1",
+    "receiver": "unary:v1",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.006861989811600037
+      ]
+    }
+  },
+  {
+    "step": 10,
+    "sender": "v1",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19997126281999997
+      ]
+    }
+  },
+  {
+    "step": 10,
+    "sender": "v2",
+    "receiver": "unary:v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 10,
+    "sender": "v2",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.000829441620000027,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 10,
+    "sender": "v2",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.3991130840199999,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 10,
+    "sender": "v3",
+    "receiver": "unary:v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.3914216525883998
+      ]
+    }
+  },
+  {
+    "step": 10,
+    "sender": "v3",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19997126281999997,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 10,
+    "sender": "unary:v1",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999881901999997
+      ]
+    }
+  },
+  {
+    "step": 10,
+    "sender": "unary:v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999881901999997,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 10,
+    "sender": "unary:v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999881901999997,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 10,
+    "sender": "pair:v1|v2",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0017823350160000315
+      ]
+    }
+  },
+  {
+    "step": 10,
+    "sender": "pair:v1|v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19988446078999994,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 10,
+    "sender": "pair:v2|v3",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19988446078999994
+      ]
+    }
+  },
+  {
+    "step": 10,
+    "sender": "pair:v2|v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.3979865865639998
+      ]
+    }
+  },
+  {
+    "step": 11,
+    "sender": "v1",
+    "receiver": "unary:v1",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.003306231454680033
+      ]
+    }
+  },
+  {
+    "step": 11,
+    "sender": "v1",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999055215999995
+      ]
+    }
+  },
+  {
+    "step": 11,
+    "sender": "v2",
+    "receiver": "unary:v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 11,
+    "sender": "v2",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0003288832470000276,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 11,
+    "sender": "v2",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.3996522210729999,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 11,
+    "sender": "v3",
+    "receiver": "unary:v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.39601710637131976
+      ]
+    }
+  },
+  {
+    "step": 11,
+    "sender": "v3",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999055215999995,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 11,
+    "sender": "unary:v1",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999964570599998
+      ]
+    }
+  },
+  {
+    "step": 11,
+    "sender": "unary:v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999964570599998,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 11,
+    "sender": "unary:v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999964570599998,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 11,
+    "sender": "pair:v1|v2",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0007649187777000288
+      ]
+    }
+  },
+  {
+    "step": 11,
+    "sender": "pair:v1|v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19995872474899992,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 11,
+    "sender": "pair:v2|v3",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19995872474899992
+      ]
+    }
+  },
+  {
+    "step": 11,
+    "sender": "pair:v2|v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.3991525307202998
+      ]
+    }
+  },
+  {
+    "step": 12,
+    "sender": "v1",
+    "receiver": "unary:v1",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.00152731258079403
+      ]
+    }
+  },
+  {
+    "step": 12,
+    "sender": "v1",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999691764219996
+      ]
+    }
+  },
+  {
+    "step": 12,
+    "sender": "v2",
+    "receiver": "unary:v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 12,
+    "sender": "v2",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.00012730964400005195,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 12,
+    "sender": "v2",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.3998665256403999,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 12,
+    "sender": "v3",
+    "receiver": "unary:v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.39821190341560575
+      ]
+    }
+  },
+  {
+    "step": 12,
+    "sender": "v3",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999691764219996,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 12,
+    "sender": "unary:v1",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.1999998937118
+      ]
+    }
+  },
+  {
+    "step": 12,
+    "sender": "unary:v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.1999998937118,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 12,
+    "sender": "unary:v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.1999998937118,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 12,
+    "sender": "pair:v1|v2",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.000318592384110045
+      ]
+    }
+  },
+  {
+    "step": 12,
+    "sender": "pair:v1|v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19998545977423993,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 12,
+    "sender": "pair:v2|v3",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19998545977423993
+      ]
+    }
+  },
+  {
+    "step": 12,
+    "sender": "pair:v2|v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.3996523271643698
+      ]
+    }
+  },
+  {
+    "step": 13,
+    "sender": "v1",
+    "receiver": "unary:v1",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0006812084431152405
+      ]
+    }
+  },
+  {
+    "step": 13,
+    "sender": "v1",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999900089092
+      ]
+    }
+  },
+  {
+    "step": 13,
+    "sender": "v2",
+    "receiver": "unary:v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 13,
+    "sender": "v2",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        4.829664949206143e-05,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 13,
+    "sender": "v2",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.39994970513234784,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 13,
+    "sender": "v3",
+    "receiver": "unary:v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.39922020003974057
+      ]
+    }
+  },
+  {
+    "step": 13,
+    "sender": "v3",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999900089092,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 13,
+    "sender": "unary:v1",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999996811353998
+      ]
+    }
+  },
+  {
+    "step": 13,
+    "sender": "unary:v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999996811353998,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 13,
+    "sender": "unary:v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999996811353998,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 13,
+    "sender": "pair:v1|v2",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0001293853698774565
+      ]
+    }
+  },
+  {
+    "step": 13,
+    "sender": "pair:v1|v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999493855591596,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 13,
+    "sender": "pair:v2|v3",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999493855591596
+      ]
+    }
+  },
+  {
+    "step": 13,
+    "sender": "pair:v2|v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.3998604917419544
+      ]
+    }
+  },
+  {
+    "step": 14,
+    "sender": "v1",
+    "receiver": "unary:v1",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0002949322918487917
+      ]
+    }
+  },
+  {
+    "step": 14,
+    "sender": "v1",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999967794675397
+      ]
+    }
+  },
+  {
+    "step": 14,
+    "sender": "v2",
+    "receiver": "unary:v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 14,
+    "sender": "v2",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        1.8009685184432443e-05,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 14,
+    "sender": "v2",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.3999813462083235,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 14,
+    "sender": "v3",
+    "receiver": "unary:v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.39966840423129024
+      ]
+    }
+  },
+  {
+    "step": 14,
+    "sender": "v3",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999967794675397,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 14,
+    "sender": "unary:v1",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999999043406197
+      ]
+    }
+  },
+  {
+    "step": 14,
+    "sender": "unary:v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999043406197,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 14,
+    "sender": "unary:v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999043406197,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 14,
+    "sender": "pair:v1|v2",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        5.142239059233965e-05
+      ]
+    }
+  },
+  {
+    "step": 14,
+    "sender": "pair:v1|v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999825612950256,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 14,
+    "sender": "pair:v2|v3",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999825612950256
+      ]
+    }
+  },
+  {
+    "step": 14,
+    "sender": "pair:v2|v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.39994508986841276
+      ]
+    }
+  },
+  {
+    "step": 15,
+    "sender": "v1",
+    "receiver": "unary:v1",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.00012447536096927525
+      ]
+    }
+  },
+  {
+    "step": 15,
+    "sender": "v1",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999989668786955
+      ]
+    }
+  },
+  {
+    "step": 15,
+    "sender": "v2",
+    "receiver": "unary:v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 15,
+    "sender": "v2",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        6.6169187469158266e-06,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 15,
+    "sender": "v2",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.39999317645699217,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 15,
+    "sender": "v3",
+    "receiver": "unary:v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.399862084177276
+      ]
+    }
+  },
+  {
+    "step": 15,
+    "sender": "v3",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999989668786955,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 15,
+    "sender": "unary:v1",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999999713021857
+      ]
+    }
+  },
+  {
+    "step": 15,
+    "sender": "unary:v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999713021857,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 15,
+    "sender": "unary:v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999713021857,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 15,
+    "sender": "pair:v1|v2",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        2.0058560300542972e-05
+      ]
+    }
+  },
+  {
+    "step": 15,
+    "sender": "pair:v1|v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999940452035944,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 15,
+    "sender": "pair:v2|v3",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999940452035944
+      ]
+    }
+  },
+  {
+    "step": 15,
+    "sender": "pair:v2|v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.3999787504804183
+      ]
+    }
+  },
+  {
+    "step": 16,
+    "sender": "v1",
+    "receiver": "unary:v1",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        5.1383600501162656e-05
+      ]
+    }
+  },
+  {
+    "step": 16,
+    "sender": "v1",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999996699751385
+      ]
+    }
+  },
+  {
+    "step": 16,
+    "sender": "v2",
+    "receiver": "unary:v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 16,
+    "sender": "v2",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        2.399902525465134e-06,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 16,
+    "sender": "v2",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.3999975340925022,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 16,
+    "sender": "v3",
+    "receiver": "unary:v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.39994375058947557
+      ]
+    }
+  },
+  {
+    "step": 16,
+    "sender": "v3",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999996699751385,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 16,
+    "sender": "unary:v1",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999999913906555
+      ]
+    }
+  },
+  {
+    "step": 16,
+    "sender": "unary:v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999913906555,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 16,
+    "sender": "unary:v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999913906555,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 16,
+    "sender": "pair:v1|v2",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        7.697499857988484e-06
+      ]
+    }
+  },
+  {
+    "step": 16,
+    "sender": "pair:v1|v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999979825436753,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 16,
+    "sender": "pair:v2|v3",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999979825436753
+      ]
+    }
+  },
+  {
+    "step": 16,
+    "sender": "pair:v2|v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.399991899008877
+      ]
+    }
+  },
+  {
+    "step": 17,
+    "sender": "v1",
+    "receiver": "unary:v1",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        2.0803330050940734e-05
+      ]
+    }
+  },
+  {
+    "step": 17,
+    "sender": "v1",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999998949660003
+      ]
+    }
+  },
+  {
+    "step": 17,
+    "sender": "v2",
+    "receiver": "unary:v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 17,
+    "sender": "v2",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        8.60590046250073e-07,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 17,
+    "sender": "v2",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.3999991184031538,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 17,
+    "sender": "v3",
+    "receiver": "unary:v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.39997745448305655
+      ]
+    }
+  },
+  {
+    "step": 17,
+    "sender": "v3",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999998949660003,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 17,
+    "sender": "unary:v1",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999999974171964
+      ]
+    }
+  },
+  {
+    "step": 17,
+    "sender": "unary:v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999974171964,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 17,
+    "sender": "unary:v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999974171964,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 17,
+    "sender": "pair:v1|v2",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        2.9116629897715965e-06
+      ]
+    }
+  },
+  {
+    "step": 17,
+    "sender": "pair:v1|v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999993212393025,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 17,
+    "sender": "pair:v2|v3",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999993212393025
+      ]
+    }
+  },
+  {
+    "step": 17,
+    "sender": "pair:v2|v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.39999695258487067
+      ]
+    }
+  },
+  {
+    "step": 18,
+    "sender": "v1",
+    "receiver": "unary:v1",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        8.279163108122337e-06
+      ]
+    }
+  },
+  {
+    "step": 18,
+    "sender": "v1",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999999666818374
+      ]
+    }
+  },
+  {
+    "step": 18,
+    "sender": "v2",
+    "receiver": "unary:v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 18,
+    "sender": "v2",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        3.0550946645184227e-07,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 18,
+    "sender": "v2",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.399999687826901,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 18,
+    "sender": "v3",
+    "receiver": "unary:v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.3999911031543264
+      ]
+    }
+  },
+  {
+    "step": 18,
+    "sender": "v3",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999666818374,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 18,
+    "sender": "unary:v1",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999999992251588
+      ]
+    }
+  },
+  {
+    "step": 18,
+    "sender": "unary:v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999992251588,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 18,
+    "sender": "unary:v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999992251588,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 18,
+    "sender": "pair:v1|v2",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        1.0873555234477686e-06
+      ]
+    }
+  },
+  {
+    "step": 18,
+    "sender": "pair:v1|v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999997730490768,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 18,
+    "sender": "pair:v2|v3",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999997730490768
+      ]
+    }
+  },
+  {
+    "step": 18,
+    "sender": "pair:v2|v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.39999886725429185
+      ]
+    }
+  },
+  {
+    "step": 19,
+    "sender": "v1",
+    "receiver": "unary:v1",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        3.244897798850139e-06
+      ]
+    }
+  },
+  {
+    "step": 19,
+    "sender": "v1",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999999894621623
+      ]
+    }
+  },
+  {
+    "step": 19,
+    "sender": "v2",
+    "receiver": "unary:v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 19,
+    "sender": "v2",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        1.0748516567764604e-07,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 19,
+    "sender": "v2",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.39999989040726674,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 19,
+    "sender": "v3",
+    "receiver": "unary:v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.39999653802430224
+      ]
+    }
+  },
+  {
+    "step": 19,
+    "sender": "v3",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999894621623,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 19,
+    "sender": "unary:v1",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999999997675474
+      ]
+    }
+  },
+  {
+    "step": 19,
+    "sender": "unary:v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999997675474,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 19,
+    "sender": "unary:v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999997675474,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 19,
+    "sender": "pair:v1|v2",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        4.014462730086828e-07
+      ]
+    }
+  },
+  {
+    "step": 19,
+    "sender": "pair:v1|v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999245382366,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 19,
+    "sender": "pair:v2|v3",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999999245382366
+      ]
+    }
+  },
+  {
+    "step": 19,
+    "sender": "pair:v2|v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.39999958346137426
+      ]
+    }
+  },
+  {
+    "step": 20,
+    "sender": "v1",
+    "receiver": "unary:v1",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        1.2544817307611197e-06
+      ]
+    }
+  },
+  {
+    "step": 20,
+    "sender": "v1",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.1999999996675932
+      ]
+    }
+  },
+  {
+    "step": 20,
+    "sender": "v2",
+    "receiver": "unary:v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 20,
+    "sender": "v2",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        3.751160146183948e-08,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 20,
+    "sender": "v2",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.3999999618235849,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 20,
+    "sender": "v3",
+    "receiver": "unary:v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.3999986698302526
+      ]
+    }
+  },
+  {
+    "step": 20,
+    "sender": "v3",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.1999999996675932,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 20,
+    "sender": "unary:v1",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999999999302642
+      ]
+    }
+  },
+  {
+    "step": 20,
+    "sender": "unary:v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999302642,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 20,
+    "sender": "unary:v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999302642,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 20,
+    "sender": "pair:v1|v2",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        1.4669200292589246e-07
+      ]
+    }
+  },
+  {
+    "step": 20,
+    "sender": "pair:v1|v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.1999999975034623,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 20,
+    "sender": "pair:v2|v3",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.1999999975034623
+      ]
+    }
+  },
+  {
+    "step": 20,
+    "sender": "pair:v2|v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.39999984831492164
+      ]
+    }
+  },
+  {
+    "step": 21,
+    "sender": "v1",
+    "receiver": "unary:v1",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        4.790289212764606e-07
+      ]
+    }
+  },
+  {
+    "step": 21,
+    "sender": "v1",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999999989539644
+      ]
+    }
+  },
+  {
+    "step": 21,
+    "sender": "v2",
+    "receiver": "unary:v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 21,
+    "sender": "v2",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        1.299617531584546e-08,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 21,
+    "sender": "v2",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.3999999867946175,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 21,
+    "sender": "v3",
+    "receiver": "unary:v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.3999994947695209
+      ]
+    }
+  },
+  {
+    "step": 21,
+    "sender": "v3",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999989539644,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 21,
+    "sender": "unary:v1",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.1999999999979079
+      ]
+    }
+  },
+  {
+    "step": 21,
+    "sender": "unary:v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.1999999999979079,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 21,
+    "sender": "unary:v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.1999999999979079,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 21,
+    "sender": "pair:v1|v2",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        5.310492359885956e-08
+      ]
+    }
+  },
+  {
+    "step": 21,
+    "sender": "pair:v1|v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.1999999991778162,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 21,
+    "sender": "pair:v2|v3",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.1999999991778162
+      ]
+    }
+  },
+  {
+    "step": 21,
+    "sender": "pair:v2|v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.3999999452507087
+      ]
+    }
+  },
+  {
+    "step": 22,
+    "sender": "v1",
+    "receiver": "unary:v1",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        1.808821229021399e-07
+      ]
+    }
+  },
+  {
+    "step": 22,
+    "sender": "v1",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999999996715445
+      ]
+    }
+  },
+  {
+    "step": 22,
+    "sender": "v2",
+    "receiver": "unary:v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 22,
+    "sender": "v2",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        4.472916796484088e-09,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 22,
+    "sender": "v2",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.3999999954613921,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 22,
+    "sender": "v3",
+    "receiver": "unary:v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.3999998101063523
+      ]
+    }
+  },
+  {
+    "step": 22,
+    "sender": "v3",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999996715445,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 22,
+    "sender": "unary:v1",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999999999937235
+      ]
+    }
+  },
+  {
+    "step": 22,
+    "sender": "unary:v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999937235,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 22,
+    "sender": "unary:v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999937235,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 22,
+    "sender": "pair:v1|v2",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        1.906251883719673e-08
+      ]
+    }
+  },
+  {
+    "step": 22,
+    "sender": "pair:v1|v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999973035296,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 22,
+    "sender": "pair:v2|v3",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999999973035296
+      ]
+    }
+  },
+  {
+    "step": 22,
+    "sender": "pair:v2|v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.39999998039818707
+      ]
+    }
+  },
+  {
+    "step": 23,
+    "sender": "v1",
+    "receiver": "unary:v1",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        6.760840005667967e-08
+      ]
+    }
+  },
+  {
+    "step": 23,
+    "sender": "v1",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999999998970697
+      ]
+    }
+  },
+  {
+    "step": 23,
+    "sender": "v2",
+    "receiver": "unary:v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 23,
+    "sender": "v2",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        1.5301886120137035e-09,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 23,
+    "sender": "v2",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.3999999984492253,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 23,
+    "sender": "v3",
+    "receiver": "unary:v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.3999999293106366
+      ]
+    }
+  },
+  {
+    "step": 23,
+    "sender": "v3",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999998970697,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 23,
+    "sender": "unary:v1",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.1999999999998117
+      ]
+    }
+  },
+  {
+    "step": 23,
+    "sender": "unary:v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.1999999999998117,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 23,
+    "sender": "unary:v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.1999999999998117,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 23,
+    "sender": "pair:v1|v2",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        6.789887679568611e-09
+      ]
+    }
+  },
+  {
+    "step": 23,
+    "sender": "pair:v1|v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999991190076,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 23,
+    "sender": "pair:v2|v3",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999999991190076
+      ]
+    }
+  },
+  {
+    "step": 23,
+    "sender": "pair:v2|v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.3999999930339138
+      ]
+    }
+  },
+  {
+    "step": 24,
+    "sender": "v1",
+    "receiver": "unary:v1",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        2.5035441392701928e-08
+      ]
+    }
+  },
+  {
+    "step": 24,
+    "sender": "v1",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999999999678025
+      ]
+    }
+  },
+  {
+    "step": 24,
+    "sender": "v2",
+    "receiver": "unary:v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 24,
+    "sender": "v2",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        5.205942335798514e-10,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 24,
+    "sender": "v2",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.39999999947296627,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 24,
+    "sender": "v3",
+    "receiver": "unary:v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.3999999739169306
+      ]
+    }
+  },
+  {
+    "step": 24,
+    "sender": "v3",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999678025,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 24,
+    "sender": "unary:v1",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.1999999999999435
+      ]
+    }
+  },
+  {
+    "step": 24,
+    "sender": "unary:v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.1999999999999435,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 24,
+    "sender": "unary:v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.1999999999999435,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 24,
+    "sender": "pair:v1|v2",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        2.401382267376479e-09
+      ]
+    }
+  },
+  {
+    "step": 24,
+    "sender": "pair:v1|v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.1999999999713164,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 24,
+    "sender": "pair:v2|v3",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.1999999999713164
+      ]
+    }
+  },
+  {
+    "step": 24,
+    "sender": "pair:v2|v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.3999999975412505
+      ]
+    }
+  },
+  {
+    "step": 25,
+    "sender": "v1",
+    "receiver": "unary:v1",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        9.191600004974114e-09
+      ]
+    }
+  },
+  {
+    "step": 25,
+    "sender": "v1",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.1999999999989945
+      ]
+    }
+  },
+  {
+    "step": 25,
+    "sender": "v2",
+    "receiver": "unary:v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 25,
+    "sender": "v2",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        1.7621724055692716e-10,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 25,
+    "sender": "v2",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.39999999982177176,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 25,
+    "sender": "v3",
+    "receiver": "unary:v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.3999999904539545
+      ]
+    }
+  },
+  {
+    "step": 25,
+    "sender": "v3",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.1999999999989945,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 25,
+    "sender": "unary:v1",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999999999998302
+      ]
+    }
+  },
+  {
+    "step": 25,
+    "sender": "unary:v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999998302,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 25,
+    "sender": "unary:v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999998302,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 25,
+    "sender": "pair:v1|v2",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        8.437667486027927e-10
+      ]
+    }
+  },
+  {
+    "step": 25,
+    "sender": "pair:v1|v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999069107,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 25,
+    "sender": "pair:v2|v3",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999999999069107
+      ]
+    }
+  },
+  {
+    "step": 25,
+    "sender": "pair:v2|v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.39999999913761536
+      ]
+    }
+  },
+  {
+    "step": 26,
+    "sender": "v1",
+    "receiver": "unary:v1",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        3.3481167255141887e-09
+      ]
+    }
+  },
+  {
+    "step": 26,
+    "sender": "v1",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999999999968646
+      ]
+    }
+  },
+  {
+    "step": 26,
+    "sender": "v2",
+    "receiver": "unary:v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 26,
+    "sender": "v2",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        5.936954143249245e-11,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 26,
+    "sender": "v2",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.39999999994000335,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 26,
+    "sender": "v3",
+    "receiver": "unary:v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.3999999965325171
+      ]
+    }
+  },
+  {
+    "step": 26,
+    "sender": "v3",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999968646,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 26,
+    "sender": "unary:v1",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.1999999999999949
+      ]
+    }
+  },
+  {
+    "step": 26,
+    "sender": "unary:v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.1999999999999949,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 26,
+    "sender": "unary:v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.1999999999999949,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 26,
+    "sender": "pair:v1|v2",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        2.946887035835825e-10
+      ]
+    }
+  },
+  {
+    "step": 26,
+    "sender": "pair:v1|v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999698784,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 26,
+    "sender": "pair:v2|v3",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999999999698784
+      ]
+    }
+  },
+  {
+    "step": 26,
+    "sender": "pair:v2|v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.39999999969928696
+      ]
+    }
+  },
+  {
+    "step": 27,
+    "sender": "v1",
+    "receiver": "unary:v1",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        1.2107171101627644e-09
+      ]
+    }
+  },
+  {
+    "step": 27,
+    "sender": "v1",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999999999990237
+      ]
+    }
+  },
+  {
+    "step": 27,
+    "sender": "v2",
+    "receiver": "unary:v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 27,
+    "sender": "v2",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        1.991580920218873e-11,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 27,
+    "sender": "v2",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.39999999997988894,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 27,
+    "sender": "v3",
+    "receiver": "unary:v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.39999999874925596
+      ]
+    }
+  },
+  {
+    "step": 27,
+    "sender": "v3",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999990237,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 27,
+    "sender": "unary:v1",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999999999999846
+      ]
+    }
+  },
+  {
+    "step": 27,
+    "sender": "unary:v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999999846,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 27,
+    "sender": "unary:v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999999846,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 27,
+    "sender": "pair:v1|v2",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        1.0234767751660686e-10
+      ]
+    }
+  },
+  {
+    "step": 27,
+    "sender": "pair:v1|v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.199999999999028,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 27,
+    "sender": "pair:v2|v3",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.199999999999028
+      ]
+    }
+  },
+  {
+    "step": 27,
+    "sender": "pair:v2|v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.39999999989570834
+      ]
+    }
+  },
+  {
+    "step": 28,
+    "sender": "v1",
+    "receiver": "unary:v1",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        4.348585073104541e-10
+      ]
+    }
+  },
+  {
+    "step": 28,
+    "sender": "v1",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999999999996962
+      ]
+    }
+  },
+  {
+    "step": 28,
+    "sender": "v2",
+    "receiver": "unary:v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 28,
+    "sender": "v2",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        6.654054922734014e-12,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 28,
+    "sender": "v2",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.39999999999328517,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 28,
+    "sender": "v3",
+    "receiver": "unary:v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.39999999955177257
+      ]
+    }
+  },
+  {
+    "step": 28,
+    "sender": "v3",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999996962,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 28,
+    "sender": "unary:v1",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.1999999999999995
+      ]
+    }
+  },
+  {
+    "step": 28,
+    "sender": "unary:v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.1999999999999995,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 28,
+    "sender": "unary:v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.1999999999999995,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 28,
+    "sender": "pair:v1|v2",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        3.536214170089587e-11
+      ]
+    }
+  },
+  {
+    "step": 28,
+    "sender": "pair:v1|v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999968712,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 28,
+    "sender": "pair:v2|v3",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999999999968712
+      ]
+    }
+  },
+  {
+    "step": 28,
+    "sender": "pair:v2|v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.39999999996401214
+      ]
+    }
+  },
+  {
+    "step": 29,
+    "sender": "v1",
+    "receiver": "unary:v1",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        1.5521105138376333e-10
+      ]
+    }
+  },
+  {
+    "step": 29,
+    "sender": "v1",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999999999999052
+      ]
+    }
+  },
+  {
+    "step": 29,
+    "sender": "v2",
+    "receiver": "unary:v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 29,
+    "sender": "v2",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        2.2148887793079366e-12,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 29,
+    "sender": "v2",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.39999999999776614,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 29,
+    "sender": "v3",
+    "receiver": "unary:v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.39999999984034024
+      ]
+    }
+  },
+  {
+    "step": 29,
+    "sender": "v3",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999999052,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 29,
+    "sender": "unary:v1",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999999999999984
+      ]
+    }
+  },
+  {
+    "step": 29,
+    "sender": "unary:v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999999984,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 29,
+    "sender": "unary:v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999999984,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 29,
+    "sender": "pair:v1|v2",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        1.2159064655784315e-11
+      ]
+    }
+  },
+  {
+    "step": 29,
+    "sender": "pair:v1|v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999989948,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 29,
+    "sender": "pair:v2|v3",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999999999989948
+      ]
+    }
+  },
+  {
+    "step": 29,
+    "sender": "pair:v2|v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.3999999999876399
+      ]
+    }
+  },
+  {
+    "step": 30,
+    "sender": "v1",
+    "receiver": "unary:v1",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        5.507466067417802e-11
+      ]
+    }
+  },
+  {
+    "step": 30,
+    "sender": "v1",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.199999999999997
+      ]
+    }
+  },
+  {
+    "step": 30,
+    "sender": "v2",
+    "receiver": "unary:v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 30,
+    "sender": "v2",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        7.347215467906609e-13,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 30,
+    "sender": "v2",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.3999999999992594,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 30,
+    "sender": "v3",
+    "receiver": "unary:v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.3999999999434499
+      ]
+    }
+  },
+  {
+    "step": 30,
+    "sender": "v3",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.199999999999997,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 30,
+    "sender": "unary:v1",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999999999999993
+      ]
+    }
+  },
+  {
+    "step": 30,
+    "sender": "unary:v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999999993,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 30,
+    "sender": "unary:v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999999993,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 30,
+    "sender": "pair:v1|v2",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        4.162024479488757e-12
+      ]
+    }
+  },
+  {
+    "step": 30,
+    "sender": "pair:v1|v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999996776,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 30,
+    "sender": "pair:v2|v3",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999999999996776
+      ]
+    }
+  },
+  {
+    "step": 30,
+    "sender": "pair:v2|v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.3999999999957735
+      ]
+    }
+  },
+  {
+    "step": 31,
+    "sender": "v1",
+    "receiver": "unary:v1",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        1.9435815337895532e-11
+      ]
+    }
+  },
+  {
+    "step": 31,
+    "sender": "v1",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999999999999904
+      ]
+    }
+  },
+  {
+    "step": 31,
+    "sender": "v2",
+    "receiver": "unary:v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 31,
+    "sender": "v2",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        2.4293456253415797e-13,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 31,
+    "sender": "v2",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.3999999999997552,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 31,
+    "sender": "v3",
+    "receiver": "unary:v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.3999999999800764
+      ]
+    }
+  },
+  {
+    "step": 31,
+    "sender": "v3",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999999904,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 31,
+    "sender": "unary:v1",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999999999999996
+      ]
+    }
+  },
+  {
+    "step": 31,
+    "sender": "unary:v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999999996,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 31,
+    "sender": "unary:v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999999996,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 31,
+    "sender": "pair:v1|v2",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        1.4186615376205376e-12
+      ]
+    }
+  },
+  {
+    "step": 31,
+    "sender": "pair:v1|v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999998963,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 31,
+    "sender": "pair:v2|v3",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999999999998963
+      ]
+    }
+  },
+  {
+    "step": 31,
+    "sender": "pair:v2|v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.3999999999985607
+      ]
+    }
+  },
+  {
+    "step": 32,
+    "sender": "v1",
+    "receiver": "unary:v1",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        6.823807677703035e-12
+      ]
+    }
+  },
+  {
+    "step": 32,
+    "sender": "v1",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999999999999968
+      ]
+    }
+  },
+  {
+    "step": 32,
+    "sender": "v2",
+    "receiver": "unary:v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 32,
+    "sender": "v2",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        8.010792065055716e-14,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 32,
+    "sender": "v2",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.39999999999991925,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 32,
+    "sender": "v3",
+    "receiver": "unary:v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.3999999999930154
+      ]
+    }
+  },
+  {
+    "step": 32,
+    "sender": "v3",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999999968,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 32,
+    "sender": "unary:v1",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999999999999996
+      ]
+    }
+  },
+  {
+    "step": 32,
+    "sender": "unary:v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999999996,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 32,
+    "sender": "unary:v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999999996,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 32,
+    "sender": "pair:v1|v2",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        4.816740057415513e-13
+      ]
+    }
+  },
+  {
+    "step": 32,
+    "sender": "pair:v1|v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999999665,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 32,
+    "sender": "pair:v2|v3",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999999999999665
+      ]
+    }
+  },
+  {
+    "step": 32,
+    "sender": "pair:v2|v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.39999999999951164
+      ]
+    }
+  },
+  {
+    "step": 33,
+    "sender": "v1",
+    "receiver": "unary:v1",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        2.3843141073299963e-12
+      ]
+    }
+  },
+  {
+    "step": 33,
+    "sender": "v1",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999999999999984
+      ]
+    }
+  },
+  {
+    "step": 33,
+    "sender": "v2",
+    "receiver": "unary:v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 33,
+    "sender": "v2",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        2.6344415643949036e-14,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 33,
+    "sender": "v2",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.3999999999999734,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 33,
+    "sender": "v3",
+    "receiver": "unary:v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.39999999999756275
+      ]
+    }
+  },
+  {
+    "step": 33,
+    "sender": "v3",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999999984,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 33,
+    "sender": "unary:v1",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999999999999996
+      ]
+    }
+  },
+  {
+    "step": 33,
+    "sender": "unary:v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999999996,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 33,
+    "sender": "unary:v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999999996,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 33,
+    "sender": "pair:v1|v2",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        1.6294329267322972e-13
+      ]
+    }
+  },
+  {
+    "step": 33,
+    "sender": "pair:v1|v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999999887,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 33,
+    "sender": "pair:v2|v3",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999999999999887
+      ]
+    }
+  },
+  {
+    "step": 33,
+    "sender": "pair:v2|v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.3999999999998348
+      ]
+    }
+  },
+  {
+    "step": 34,
+    "sender": "v1",
+    "receiver": "unary:v1",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        8.293545370702597e-13
+      ]
+    }
+  },
+  {
+    "step": 34,
+    "sender": "v1",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.1999999999999999
+      ]
+    }
+  },
+  {
+    "step": 34,
+    "sender": "v2",
+    "receiver": "unary:v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 34,
+    "sender": "v2",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        8.66105190749138e-15,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 34,
+    "sender": "v2",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.39999999999999114,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 34,
+    "sender": "v3",
+    "receiver": "unary:v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.39999999999915314
+      ]
+    }
+  },
+  {
+    "step": 34,
+    "sender": "v3",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.1999999999999999,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 34,
+    "sender": "unary:v1",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999999999999996
+      ]
+    }
+  },
+  {
+    "step": 34,
+    "sender": "unary:v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999999996,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 34,
+    "sender": "unary:v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999999996,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 34,
+    "sender": "pair:v1|v2",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        5.4945724137212884e-14
+      ]
+    }
+  },
+  {
+    "step": 34,
+    "sender": "pair:v1|v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.1999999999999996,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 34,
+    "sender": "pair:v2|v3",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.1999999999999996
+      ]
+    }
+  },
+  {
+    "step": 34,
+    "sender": "pair:v2|v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.3999999999999442
+      ]
+    }
+  },
+  {
+    "step": 35,
+    "sender": "v1",
+    "receiver": "unary:v1",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        2.8726836801712693e-13
+      ]
+    }
+  },
+  {
+    "step": 35,
+    "sender": "v1",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999999999999993
+      ]
+    }
+  },
+  {
+    "step": 35,
+    "sender": "v2",
+    "receiver": "unary:v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 35,
+    "sender": "v2",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        2.850891310349637e-15,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 35,
+    "sender": "v2",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.399999999999997,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 35,
+    "sender": "v3",
+    "receiver": "unary:v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.3999999999997068
+      ]
+    }
+  },
+  {
+    "step": 35,
+    "sender": "v3",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999999993,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 35,
+    "sender": "unary:v1",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999999999999996
+      ]
+    }
+  },
+  {
+    "step": 35,
+    "sender": "unary:v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999999996,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 35,
+    "sender": "unary:v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999999996,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 35,
+    "sender": "pair:v1|v2",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        1.847934115840861e-14
+      ]
+    }
+  },
+  {
+    "step": 35,
+    "sender": "pair:v1|v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.1999999999999998,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 35,
+    "sender": "pair:v2|v3",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.1999999999999998
+      ]
+    }
+  },
+  {
+    "step": 35,
+    "sender": "pair:v2|v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.39999999999998115
+      ]
+    }
+  },
+  {
+    "step": 36,
+    "sender": "v1",
+    "receiver": "unary:v1",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        9.91160492160241e-14
+      ]
+    }
+  },
+  {
+    "step": 36,
+    "sender": "v1",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999999999999993
+      ]
+    }
+  },
+  {
+    "step": 36,
+    "sender": "v2",
+    "receiver": "unary:v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 36,
+    "sender": "v2",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        9.718408106905324e-16,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 36,
+    "sender": "v2",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.3999999999999989,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 36,
+    "sender": "v3",
+    "receiver": "unary:v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.39999999999989877
+      ]
+    }
+  },
+  {
+    "step": 36,
+    "sender": "v3",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999999993,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 36,
+    "sender": "unary:v1",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999999999999996
+      ]
+    }
+  },
+  {
+    "step": 36,
+    "sender": "unary:v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999999996,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 36,
+    "sender": "unary:v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999999996,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 36,
+    "sender": "pair:v1|v2",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        6.224090915005956e-15
+      ]
+    }
+  },
+  {
+    "step": 36,
+    "sender": "pair:v1|v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999999987,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 36,
+    "sender": "pair:v2|v3",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999999999999987
+      ]
+    }
+  },
+  {
+    "step": 36,
+    "sender": "pair:v2|v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.3999999999999935
+      ]
+    }
+  },
+  {
+    "step": 37,
+    "sender": "v1",
+    "receiver": "unary:v1",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        3.40916784053114e-14
+      ]
+    }
+  },
+  {
+    "step": 37,
+    "sender": "v1",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999999999999993
+      ]
+    }
+  },
+  {
+    "step": 37,
+    "sender": "v2",
+    "receiver": "unary:v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 37,
+    "sender": "v2",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        3.4983895199998044e-16,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 37,
+    "sender": "v2",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.3999999999999995,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 37,
+    "sender": "v3",
+    "receiver": "unary:v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.3999999999999651
+      ]
+    }
+  },
+  {
+    "step": 37,
+    "sender": "v3",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999999993,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 37,
+    "sender": "unary:v1",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999999999999996
+      ]
+    }
+  },
+  {
+    "step": 37,
+    "sender": "unary:v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999999996,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 37,
+    "sender": "unary:v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999999996,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 37,
+    "sender": "pair:v1|v2",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        2.1121145409017732e-15
+      ]
+    }
+  },
+  {
+    "step": 37,
+    "sender": "pair:v1|v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.1999999999999999,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 37,
+    "sender": "pair:v2|v3",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.1999999999999999
+      ]
+    }
+  },
+  {
+    "step": 37,
+    "sender": "pair:v2|v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.3999999999999977
+      ]
+    }
+  },
+  {
+    "step": 38,
+    "sender": "v1",
+    "receiver": "unary:v1",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        1.170598370022466e-14
+      ]
+    }
+  },
+  {
+    "step": 38,
+    "sender": "v1",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999999999999993
+      ]
+    }
+  },
+  {
+    "step": 38,
+    "sender": "v2",
+    "receiver": "unary:v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 38,
+    "sender": "v2",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        1.4380949146187459e-16,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 38,
+    "sender": "v2",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.3999999999999997,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 38,
+    "sender": "v3",
+    "receiver": "unary:v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.3999999999999879
+      ]
+    }
+  },
+  {
+    "step": 38,
+    "sender": "v3",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999999993,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 38,
+    "sender": "unary:v1",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999999999999996
+      ]
+    }
+  },
+  {
+    "step": 38,
+    "sender": "unary:v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999999996,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 38,
+    "sender": "unary:v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999999996,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 38,
+    "sender": "pair:v1|v2",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        7.343010062938441e-16
+      ]
+    }
+  },
+  {
+    "step": 38,
+    "sender": "pair:v1|v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.1999999999999999,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 38,
+    "sender": "pair:v2|v3",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.1999999999999999
+      ]
+    }
+  },
+  {
+    "step": 38,
+    "sender": "pair:v2|v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.399999999999999
+      ]
+    }
+  },
+  {
+    "step": 39,
+    "sender": "v1",
+    "receiver": "unary:v1",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        4.025805814473089e-15
+      ]
+    }
+  },
+  {
+    "step": 39,
+    "sender": "v1",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999999999999993
+      ]
+    }
+  },
+  {
+    "step": 39,
+    "sender": "v2",
+    "receiver": "unary:v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 39,
+    "sender": "v2",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        8.200065330044284e-17,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 39,
+    "sender": "v2",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.39999999999999974,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 39,
+    "sender": "v3",
+    "receiver": "unary:v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.3999999999999957
+      ]
+    }
+  },
+  {
+    "step": 39,
+    "sender": "v3",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999999993,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 39,
+    "sender": "unary:v1",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999999999999996
+      ]
+    }
+  },
+  {
+    "step": 39,
+    "sender": "unary:v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999999996,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 39,
+    "sender": "unary:v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999999996,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 39,
+    "sender": "pair:v1|v2",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        2.7769075919846323e-16
+      ]
+    }
+  },
+  {
+    "step": 39,
+    "sender": "pair:v1|v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.1999999999999999,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 39,
+    "sender": "pair:v2|v3",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.1999999999999999
+      ]
+    }
+  },
+  {
+    "step": 39,
+    "sender": "pair:v2|v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.3999999999999995
+      ]
+    }
+  },
+  {
+    "step": 40,
+    "sender": "v1",
+    "receiver": "unary:v1",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        1.4021252757808508e-15
+      ]
+    }
+  },
+  {
+    "step": 40,
+    "sender": "v1",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999999999999993
+      ]
+    }
+  },
+  {
+    "step": 40,
+    "sender": "v2",
+    "receiver": "unary:v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 40,
+    "sender": "v2",
+    "receiver": "pair:v1|v2",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        6.345800185201332e-17,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 40,
+    "sender": "v2",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.3999999999999998,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 40,
+    "sender": "v3",
+    "receiver": "unary:v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.39999999999999836
+      ]
+    }
+  },
+  {
+    "step": 40,
+    "sender": "v3",
+    "receiver": "pair:v2|v3",
+    "type": "VAR_TO_FACTOR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999999993,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 40,
+    "sender": "unary:v1",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.19999999999999996
+      ]
+    }
+  },
+  {
+    "step": 40,
+    "sender": "unary:v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999999996,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 40,
+    "sender": "unary:v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.19999999999999996,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 40,
+    "sender": "pair:v1|v2",
+    "receiver": "v1",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        1.277278290559483e-16
+      ]
+    }
+  },
+  {
+    "step": 40,
+    "sender": "pair:v1|v2",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.1999999999999999,
+        0.0
+      ]
+    }
+  },
+  {
+    "step": 40,
+    "sender": "pair:v2|v3",
+    "receiver": "v2",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.1999999999999999
+      ]
+    }
+  },
+  {
+    "step": 40,
+    "sender": "pair:v2|v3",
+    "receiver": "v3",
+    "type": "FACTOR_TO_VAR",
+    "payload": {
+      "domain": [
+        "red",
+        "blue"
+      ],
+      "values": [
+        0.0,
+        0.3999999999999997
+      ]
+    }
+  }
+]
